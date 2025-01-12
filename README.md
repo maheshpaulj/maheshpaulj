@@ -23,7 +23,7 @@
 
 ### Github Trophies 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maheshpaulj)](https://github.com/maheshpaulj/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maheshpaulj)](https://github.com/maheshpaulj)
 
 <h1>My Socials 📱</h1>
 <a href="https://www.hackerrank.com/mahesh_paul_j"> <img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="40" height="40"/> </a>

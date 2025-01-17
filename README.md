@@ -15,7 +15,7 @@
 
 | My Github streak | My Github Stats | My Most used Languages |
 |---|---|---|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maheshpaulj&theme=tokyonight&mode=weekly&background=000000C6)](https://github.com/maheshpaulj) | [![maheshpaulj's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshpaulj&show_icons=true&theme=radical)](https://github.com/maheshpaulj/) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshpaulj&layout=compact&theme=dark)](https://github.com/maheshpaulj) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=maheshpaulj&theme=tokyonight)](https://git.io/streak-stats) | [![maheshpaulj's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshpaulj&show_icons=true&theme=radical)](https://github.com/maheshpaulj/) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshpaulj&layout=compact&theme=dark)](https://github.com/maheshpaulj) |
 
 | My Github Contribution Graph |
 |---|

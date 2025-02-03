@@ -5,7 +5,7 @@
 
 > I'm a tech enthusiast with a passion for software development. Ever since I was young, I've been fascinated by technology. I'm excited to see where this journey takes me and I can't wait to keep learning and growing as a developer.
 
-[![Take a loot at my portfolio](https://img.shields.io/badge/-Take%20A%20look%20at%20my%20Portfolio%20%E2%86%92-gray.svg?colorB=1434A4&style=for-the-badge)](https://maheshpaul.vercel.app/)
+[![Take a loot at my portfolio](https://img.shields.io/badge/-Take%20A%20look%20at%20my%20Portfolio%20%E2%86%92-gray.svg?colorB=1434A4&style=for-the-badge)](https://maheshpaul.is-a.dev/)
 
 <h1>My Skills ⚒️</h1>
 

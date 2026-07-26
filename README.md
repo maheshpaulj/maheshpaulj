@@ -1,4 +1,4 @@
-
+[Pixel Art](./pixel_art.svg)
 <h1><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width=50px height=50px />   Hi! , I'm Mahesh Paul </h1>
 
 **`Computer Science student @ SRM`**

@@ -11,9 +11,16 @@
 
 <img src="https://github-pixel-widgets.vercel.app/api/contributions" alt="Contributions" />
 
+<table>
+<tr>
+<td>
 <img src="https://github-pixel-widgets.vercel.app/api/projects" alt="Featured Projects" />
-
+</td>
+<td>
 <img src="https://github-pixel-widgets.vercel.app/api/achievements" alt="Milestones" />
+</td>
+</tr>
+</table>
 
 
 <a href="https://www.hackerrank.com/mahesh_paul_j"><img src="https://github-pixel-widgets.vercel.app/api/social?icon=hackerrank" width="56" height="56" /></a>
